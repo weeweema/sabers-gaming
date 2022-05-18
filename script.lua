@@ -108,7 +108,7 @@ local themeStyles = {
     Discord = {
         SchemeColor = Color3.fromRGB(88, 101, 242),
         Background = Color3.fromRGB(35, 39, 42),
-        Header = Color3.fromRGB(36, 38, 35),
+        Header = Color3.fromRGB(35, 39, 42),
         TextColor = Color3.fromRGB(44, 47, 51),
         ElementColor = Color3.fromRGB(35, 39, 42)
     },
